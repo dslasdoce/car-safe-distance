@@ -1,2 +1,2 @@
 # car-safe-distance
-Detects lane(for distance approximation) and marks the safe distance from car in front in order to avoid collision during sudden breaks
+Detects lane(for distance approximation) and marks the minimum distance necessary in order to avoid collision during sudden break of car in front
